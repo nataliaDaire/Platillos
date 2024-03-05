@@ -23,6 +23,30 @@ $platillo = [
   "Pedido para" => "Pacheco",
   "Nombre del restaurante" => "El lince",
   ];
+
 $platillo2 = [
+  "Nombre" => "Hamburguesa",
+  "Precio" => 80,
+  "Porcion" => "Individual",
+  "Ingredientes" => "Pan,carne,queso,tomate,pepinillos,lechuga y cebolla",
+  "Peso" => "220gr",
+  "Tiempo de preparacion" => "30min",
+  "Bebida de acompañamiento" => "Coca-cola 450 ml",
+  "Dias que se sirve" => "Lunes a domingo",
+  "Mesero" => "Yofran",
+  "Presentacion" => "Servida en tabla de madera",
+  "Salsas" => "Captsu",
+  "Cubiertos" => "Cuchillo",
+  "Orden para" => "Comer en el restaurante",
+  "Tamaño" => "Mediano",
+  "Acompañamientos" => "Papas fritas",
+  "Termino de la carne" => "3/4",
+  "Tipo de pan" => "Integral",
+  "Pedido para" => "Alejandro",
+  "Estado de la comida" => "Fresco",
+  
+  
+  
+  
   
   
