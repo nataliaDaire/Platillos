@@ -44,6 +44,9 @@ $platillo2 = [
   "Tipo de pan" => "Integral",
   "Pedido para" => "Alejandro",
   "Estado de la comida" => "Fresco",
+
+  $platillo3* [
+  nombre 
   
   
   
