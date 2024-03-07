@@ -45,6 +45,7 @@ $platillo2 = [
   "Pedido para" => "Alejandro",
   "Comida en buen estado => true,
   "el platillo es pizza" => false,
+  
   ];
 
   $platillo3 = [
