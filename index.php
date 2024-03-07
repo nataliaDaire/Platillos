@@ -36,15 +36,15 @@ $platillo2 = [
   "Mesero" => "Yofran",
   "Presentacion" => "Servida en tabla de madera",
   "Salsas" => "Captsu",
-  "Cubiertos_inlcuidos" => "false",
+  "Cubiertos_inlcuidos" => false,
   "Orden para" => "Comer en el restaurante",
   "Tamaño" => "Mediano",
   "Acompañamientos" => "Papas fritas",
   "Termino" => 3.5
   "Tipo de pan" => "Integral",
   "Pedido para" => "Alejandro",
-  "Comida_en_buen_estado => "true",
-  "Platillo_pizza" => "falso",
+  "Comida_en_buen_estado => true,
+  "Platillo_pizza" => false,
   ];
 
   $platillo3 = [
