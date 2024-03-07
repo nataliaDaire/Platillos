@@ -26,24 +26,26 @@ $platillo = [
 
 $platillo2 = [
   "Nombre" => "Hamburguesa",
-  "Precio" => 80,
+  "Precio" => $80,
   "Porcion" => "Individual",
   "Ingredientes" => "Pan,carne,queso,tomate,pepinillos,lechuga y cebolla",
-  "Peso" => "220gr",
+  "Peso" => 220gr,
   "Tiempo de preparacion" => "30min",
-  "Bebida de acompañamiento" => "Coca-cola 450 ml",
+  "Tamaño_de_la_bebida" => $450,
   "Dias que se sirve" => "Lunes a domingo",
   "Mesero" => "Yofran",
   "Presentacion" => "Servida en tabla de madera",
   "Salsas" => "Captsu",
-  "Cubiertos" => "Cuchillo",
+  "Cubiertos_inlcuidos" => "false",
   "Orden para" => "Comer en el restaurante",
   "Tamaño" => "Mediano",
   "Acompañamientos" => "Papas fritas",
-  "Termino de la carne" => "3/4",
+  "Termino" => 3.5
   "Tipo de pan" => "Integral",
   "Pedido para" => "Alejandro",
-  "Estado de la comida" => "Fresco",
+  "Comida_en_buen_estado => "true",
+  "Platillo_pizza" => "falso",
+  ];
 
   $platillo=[
   "nombre"=>"mole",
