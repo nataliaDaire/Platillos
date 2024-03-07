@@ -71,8 +71,8 @@ $platillo2 = [
 
   $platillos = [
     $platillo,
-    $platillo2
-    $platillo3
+    $platillo2,
+    $platillo3,
     ];
 echo json_encode($platillos);
 
