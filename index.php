@@ -46,6 +46,7 @@ $platillo2 = [
   "Comida en buen estado => true,
   "el platillo es pizza" => false,
   //Finalmente se cierra la variable con "[;"
+  
   ];
 
   $platillo3 = [
