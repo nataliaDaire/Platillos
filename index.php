@@ -69,12 +69,13 @@ $platillo2 = [
   "variedad de platillos" => true,
   "bebida de acompañamiento" => "coca cola o vino",
   "nombre del restaurante" => "mexico en tu casa"];
-
+  //variable que une los arreglos
   $platillos = [
     $platillo,
     $platillo2,
     $platillo3,
     ];
+   //se ejecuta la condicion con la variable entre comillas
 echo json_encode($platillos);
 
 
