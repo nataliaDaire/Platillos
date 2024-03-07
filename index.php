@@ -31,20 +31,20 @@ $platillo2 = [
   "Ingredientes" => "Pan,carne,queso,tomate,pepinillos,lechuga y cebolla",
   "Peso" => 220gr,
   "Tiempo de preparacion" => "30min",
-  "Tamaño_de_la_bebida" => $450,
+  "Tamaño de la bebida" => $450,
   "Dias que se sirve" => "Lunes a domingo",
   "Mesero" => "Yofran",
   "Presentacion" => "Servida en tabla de madera",
   "Salsas" => "Captsu",
-  "Cubiertos_inlcuidos" => false,
+  "Cubiertos inlcuidos" => false,
   "Orden para" => "Comer en el restaurante",
   "Tamaño" => "Mediano",
   "Acompañamientos" => "Papas fritas",
   "Termino" => 3.5
   "Tipo de pan" => "Integral",
   "Pedido para" => "Alejandro",
-  "Comida_en_buen_estado => true,
-  "Platillo_pizza" => false,
+  "Comida en buen estado => true,
+  "Platillo es pizza" => false,
   ];
 
   $platillo3 = [
