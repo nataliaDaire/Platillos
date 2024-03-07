@@ -69,7 +69,7 @@ $platillo2 = [
   "bebida de acompañamiento"=>"coca cola o vino",
   "nombre del restaurante"=>"mexico en tu casa"];
 
-  $platillo = [
+  $platillos = [
     $platillo,
     $platillo2
     platillo3
