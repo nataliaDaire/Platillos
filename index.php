@@ -23,7 +23,7 @@ $platillo = [
   "Pedido para" => "Pacheco",
   "Nombre del restaurante" => "El lince",
   ];
-
+//Se crea el arrelgo
 $platillo2 = [
   "Nombre" => "Hamburguesa",
   "Precio" => $80,
@@ -45,7 +45,7 @@ $platillo2 = [
   "Pedido para" => "Alejandro",
   "Comida en buen estado => true,
   "el platillo es pizza" => false,
-  
+  //Finalmente se cierra la variable con "[;"
   ];
 
   $platillo3 = [
